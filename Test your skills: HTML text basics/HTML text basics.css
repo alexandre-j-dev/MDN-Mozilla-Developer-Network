@@ -1,0 +1,35 @@
+
+/* Task 1 CSS */
+
+h1, h2 {
+    color: purple;
+  }
+  
+  p {
+    color: gray;
+  }
+  
+  /* Task 2 CSS */
+  
+  ul {
+    border: 2px solid orange;
+  }
+  
+  ol {
+    border: 2px solid purple;
+  }
+  
+  ol, ul {
+    padding: 5px 20px;
+    border-radius: 4px;
+  }
+  
+  /* Task 3 CSS */
+  
+  h1, strong {
+    color: purple;
+  }
+  
+  em {
+    color: gray;
+  }
