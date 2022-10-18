@@ -4,11 +4,11 @@
 anchor to some element in page, good pratices on link names.</p>
   
  
-<strong>See it below</strong>
+<strong>See it below</strong><br>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/links.html"> Render </a><br>
 
-<strong>MDN skill tests</strong>
+<strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Link to this test </a><br>
 
-<strong>Assessment on Mozilla discourse</strong>
+<strong>Assessment on Mozilla discourse</strong><br>
 <a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link to Assessment </a>
