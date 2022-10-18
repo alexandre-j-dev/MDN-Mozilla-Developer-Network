@@ -1,8 +1,8 @@
 <h4>The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML.</h4>
 
-<h4>Skills learned: create hyperlinks, acessing directory paths, tag <title> (for tooltip), redirect to email aplication (with cc and subject), add images, 
-anchor to some element in page, good pratices on link names.</h4>
-<hr>  
+<p>Skills learned: create hyperlinks, acessing directory paths, tag <title> (for tooltip), redirect to email aplication (with cc and subject), add images, 
+anchor to some element in page, good pratices on link names.</p>
+  
  
 <strong>See it below</strong><br>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/links.html"> Render </a><br>
