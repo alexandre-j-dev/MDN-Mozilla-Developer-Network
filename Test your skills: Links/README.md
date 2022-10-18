@@ -3,7 +3,18 @@
 <p>Skills learned: create hyperlinks, acessing directory paths, tag <title> (for tooltip), redirect to email aplication (with cc and subject), add images, 
 anchor to some element in page, good pratices on link names.</p>
   
- <h4>Task 1</h4> 
+ 
+<p><strong>See it below</strong></p>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/links.html"> Render </a><br>
+
+<p><strong>MDN skill tests</strong></p>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Link to this test </a>
+
+<p><strong>Assessment on Mozilla discourse</strong></p>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link to Assessment </a><br>
+
+
+<h4>Task 1</h4> 
  Help to fill in the links on our Whales information page:
 <ul>
   <li>The first link should be linked to a page called whales.html, which is in the same directory as the current page.</li>
@@ -20,12 +31,3 @@ anchor to some element in page, good pratices on link names.</p>
   <liThe fourth link should link to the paragraph at the very bottom of the current page. It has an ID of bottom.</li>
 </ul>
 
-
-<p><strong>See it below</strong></p>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/links.html"> Render </a><br>
-
-<p><strong>MDN skill tests</strong></p>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Link to this test </a>
-
-<p><strong>Assessment on Mozilla discourse</strong></p>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link to Assessment </a>
