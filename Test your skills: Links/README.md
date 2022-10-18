@@ -10,5 +10,5 @@ anchor to some element in page, good pratices on link names.</p>
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Link to this test </a><br>
 
-<strong>Assessment on Mozilla discourse</strong><br>
+<strong>Assessment on Mozilla Discourse</strong><br>
 <a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link to Assessment </a>
