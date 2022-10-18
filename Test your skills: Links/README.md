@@ -1,4 +1,4 @@
-<h4>The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML.</h4>
+<h1>The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML.</h1>
 
 <p>Skills learned: create hyperlinks, acessing directory paths, tag <title> (for tooltip), redirect to email aplication (with cc and subject), add images, 
 anchor to some element in page, good pratices on link names.</p>
