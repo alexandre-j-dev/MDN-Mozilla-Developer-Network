@@ -20,3 +20,5 @@
 
 <strong>Assessment on Mozilla Discourse</strong><br>
 <a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link to assessment </a>
+
+<p><i>Return to previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.md"> README</a></p>
