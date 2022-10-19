@@ -26,7 +26,7 @@ Create a new .html file using your text editor of preference or use an online to
 <h2> Requirements: </h2>
 <h3> Block/structural semantics </h3>
 <ul>
-<li>Use appropriate document structure including doctype, and <html>, <head> and <body> elements.</li>
+<li>Use appropriate document structure including doctype, and &lt;html&gt;, &lt;head&gt; and &lt;body&gt; elements.</li>
 <li>In general, the letter should be marked up as an organization of headings and paragraphs, with the following exception. There is one top level heading (the "Re:" line) and three second level headings.</li>
 <li>Use an appropriate list type to mark up the semester start dates, study subjects, and exotic dances.</li>
 <li>Put the two addresses inside <address> elements. Each line of the address should sit on a new line, but not be in a new paragraph.</li>
