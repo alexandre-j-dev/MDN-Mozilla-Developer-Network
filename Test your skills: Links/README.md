@@ -1,3 +1,5 @@
+<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></p>
+
 <h1> O objetivo deste teste de habilidade é avaliar se você entende como implementar hiperlinks em HTML. </h1>
 
 
@@ -22,4 +24,4 @@
 <strong>Avaliação no Mozilla Discourse</strong><br>
 <a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link para avaliação </a>
 
-<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></p>
+
