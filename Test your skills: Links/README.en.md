@@ -1,3 +1,5 @@
+<p><i>Return to previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.md"> README</a></p>
+
 <h1> The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML. </h1>
 
 <strong>Skills learned (used):</strong>
@@ -21,4 +23,4 @@
 <strong>Assessment on Mozilla Discourse</strong><br>
 <a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link to assessment </a>
 
-<p><i>Return to previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.md"> README</a></p>
+
