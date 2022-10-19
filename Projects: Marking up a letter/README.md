@@ -1,10 +1,10 @@
-# Project brief
+<h1> Project brief </h1>
 
 For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.
 
 Skills learned:
 <ul>
-<li>!DOCTYPE, lang, meta tags, utf-8, author, link css,</li>
+<li>!DOCTYPE, lang, meta tags, utf-8, author, link css (initial setup)</li>
 <li>Using semantic heading</li>
 <li>Unordered list and ordered list</li>
 <li>Description lists</li>
@@ -12,7 +12,6 @@ Skills learned:
 <li>&lt;pre&gt; element</li>
 <li>Markup appropriate words with strong and emphasis</li>
 <li>Semantically machine-readable dates with &lt;time&gt;</li>
-<li>Class atribute</li>*
 <li>&lt;abbr&gt; element for abbreviations and acronyms</li> 
 <li>Subscript and superscript on text</li>
 <li>Create hyperlinks</li>
@@ -20,11 +19,8 @@ Skills learned:
 <li>&lt;cite&gt; element for quotes</li>
 </ul>
 
-Validator:
-https://validator.w3.org/
-
-Requirments
-<h3>Block/structural semantics</h3>
+<h2> Requirements: </h2>
+<h3> Block/structural semantics </h3>
 <ul>
 <li>Use appropriate document structure including doctype, and <html>, <head> and <body> elements.</li>
 <li>In general, the letter should be marked up as an organization of headings and paragraphs, with the following exception. There is one top level heading (the "Re:" line) and three second level headings.</li>
@@ -50,8 +46,7 @@ Requirments
 <li>You don't need to know any CSS to do this assignment. You just need to put the provided CSS inside an HTML element.</li>
 </ul>
 
-<h3>Example</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Example </a>
+
 
 Dr. Eleanor Gaye
 Awesome Science faculty
@@ -117,6 +112,13 @@ Dr Eleanor Gaye
 
 University of Awesome motto: "Be awesome to each other." -- The memoirs of Bill S Preston, Esq
 
+
+<h3>Example</h3>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Example </a>
+
+Validator:
+https://validator.w3.org/  <br><hr>
+  
 <strong>See it below</strong><br>
 <a href="https://htmlpreview.github.io/?"> Render </a><br>
 
