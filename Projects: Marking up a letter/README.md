@@ -2,8 +2,23 @@
 
 For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.
 
-Elements used:
-doctype, meta, h1, h2, p, ul, ol, dl, address, strong, em, time, sup, sub, a, q, cite
+Skills learned:
+<ul>
+<li>!DOCTYPE, lang, meta tags, utf-8, author, link css,</li>
+<li>Using semantic heading</li>
+<li>Unordered list and ordered list</li>
+<li>Description lists</li>
+<li>&lt;address&gt; element</li>
+<li>&lt;pre&gt; element</li>
+<li>Markup appropriate words with strong and emphasis</li>
+<li>Semantically machine-readable dates with &lt;time&gt;</li>
+<li>Class atribute</li>*
+<li>&lt;abbr&gt; element for abbreviations and acronyms</li> 
+<li>Subscript and superscript on text</li>
+<li>Create hyperlinks</li>
+<li>Good pratices on link names</li>  
+<li>&lt;cite&gt; element for quotes</li>
+</ul>
 
 Validator:
 https://validator.w3.org/
