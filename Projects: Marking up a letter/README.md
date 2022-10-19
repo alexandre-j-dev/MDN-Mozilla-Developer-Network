@@ -52,13 +52,13 @@ Create a new .html file using your text editor of preference or use an online to
 
 
 <h3>Example</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Example </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Marking up a letter (done) </a>
 
 Validator:
 https://validator.w3.org/  <br><hr>
   
 <strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?"> Render </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Render </a><br>
 
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Link to this test </a>
