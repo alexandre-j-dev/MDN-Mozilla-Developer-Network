@@ -4,7 +4,7 @@ Skills learned:
 <ul>  
 <li>Create hyperlinks</li>
 <li>Acessing directory paths</li>
-<li>Tag <title> (for tooltip)</li>
+<li>Tag &lt;title&gt; (for tooltip)</li>
 <li>Redirect to email aplication (with cc and subject)</li>  
 <li>Add images</li> 
 <li>Anchor to some element in page</li>
