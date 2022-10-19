@@ -2,9 +2,9 @@
 
 For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.
 
-Skills learned:
+Skills learned (used):
 <ul>
-<li>!DOCTYPE, lang, meta tags, utf-8, author, link css (initial setup)</li>
+<li>!DOCTYPE, lang, meta tags, utf-8, author, name, content </li>
 <li>Using semantic heading</li>
 <li>Unordered list and ordered list</li>
 <li>Description lists</li>
@@ -18,6 +18,10 @@ Skills learned:
 <li>Good pratices on link names</li>  
 <li>&lt;cite&gt; element for quotes</li>
 </ul>
+
+<h2> Starting point: </h2>
+Create a new .html file using your text editor of preference or use an online tool, them copy the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">raw text</a> for the project and link with the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">stylesheet</a>.
+
 
 <h2> Requirements: </h2>
 <h3> Block/structural semantics </h3>
