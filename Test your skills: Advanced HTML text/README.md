@@ -1,5 +1,15 @@
 # The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features.
 
+Skills learned:
+<ul>  
+<li>Description lists</li>
+<li>Block-level and inline quotes</li>
+<li>&lt;cite&gt; element for quotes</li>
+<li>&lt;abbr&gt; element for abbreviations and acronyms</li>  
+<li>Subscript and superscript on text</li>
+<li>Semantically machine-readable dates with &lt;time&gt;</li>
+</ul>
+
 <strong>See it below</strong><br>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/Advanced%20HTML%20text.html"> Render </a><br>
 
