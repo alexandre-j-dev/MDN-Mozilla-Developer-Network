@@ -50,8 +50,7 @@ Create a new .html file using your text editor of preference or use an online to
 <li>You don't need to know any CSS to do this assignment. You just need to put the provided CSS inside an HTML element.</li>
 </ul>
 
-
-<h3>Example</h3>
+Example:
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Marking up a letter (done) </a>
 
 Validator:
