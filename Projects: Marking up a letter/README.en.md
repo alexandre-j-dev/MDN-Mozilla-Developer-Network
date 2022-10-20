@@ -1,3 +1,5 @@
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Projects:%20Marking%20up%20a%20letter"> README</a></span>
+
 <h1> Project brief </h1>
 
 For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.
@@ -62,5 +64,5 @@ https://validator.w3.org/  <br><hr>
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Link to this test </a>
 
-<strong>Assessment on mozilla discourse</strong><br>
-<a href=" ">Link to Assessment </a>
+<strong>Assessment on Mozilla Discourse</strong><br>
+<a href=" ">Link to assessment </a>
