@@ -1,18 +1,21 @@
-# The aim of this skill test is to assess whether you understand how to mark up text in HTML to give it structure and meaning.
+<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></p>
 
-Skills learned:
+<h1> O objetivo deste teste de habilidade é avaliar se você entende como marcar texto em HTML para dar estrutura e significado. </h1>
+
+
+<strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>  
-<li>Using semantic heading</li>
-<li>Paragraphs</li>
-<li>Unordered list and ordered list</li>
-<li>Markup appropriate words with strong and emphasis</li>  
+<li>Ultilizando títulos semânticos</li>
+<li>Parágrafos</li>
+<li>Listas não ordenada e ordenadas</li>
+<li>Marcar palavras apropriadas com strong e emphasis</li>  
 </ul>
 
-<strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20text%20basics/text_basics.html"> Render </a><br>
+<strong>Veja abaixo</strong><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20text%20basics/text_basics.html"> Renderizar </a><br>
 
-<strong>MDN skill tests</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics"> Link to this test </a>
+<strong>Testes de habilidade MDN</strong><br>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics"> Link para este teste </a>
 
-<strong>Assessment on Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-text-basics-skill-test-1/106331">Link to Assessment </a>
+<strong>Avaliação no Mozilla Discourse</strong><br>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-text-basics-skill-test-1/106331">Link para avaliação </a>
