@@ -1,4 +1,4 @@
-<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20text%20basics/README.en.md"> README</a></p>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20text%20basics/README.en.md"> README</a></span>
 
 <h1> O objetivo deste teste de habilidade é avaliar se você entende como marcar texto em HTML para dar estrutura e significado. </h1>
 
