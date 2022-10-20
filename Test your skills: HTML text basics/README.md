@@ -1,11 +1,11 @@
-<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></p>
+<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20text%20basics/README.en.md"> README</a></p>
 
 <h1> O objetivo deste teste de habilidade é avaliar se você entende como marcar texto em HTML para dar estrutura e significado. </h1>
 
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>  
-<li>Ultilizando títulos semânticos</li>
+<li>Títulos semânticos</li>
 <li>Parágrafos</li>
 <li>Listas não ordenada e ordenadas</li>
 <li>Marcar palavras apropriadas com strong e emphasis</li>  
