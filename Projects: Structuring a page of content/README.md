@@ -7,11 +7,11 @@ Para este projeto, sua tarefa é pegar o conteúdo da página inicial de um site
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
   <li>Secionando conteúdo com tags semânticas</li>
-  <li>Envolver conteúdos apropriadamente com elemento &lt;Header&gt; </li>
-  <li>Envolver conteúdos apropriadamente com elemento &lt;Main&gt; </li>
-  <li>Envolver conteúdos apropriadamente com elemento &lt;Article&gt; </li>
-  <li>Envolver conteúdos apropriadamente com elemento &lt;Aside&gt; </li>
-  <li>Envolver conteúdos apropriadamente com elemento &lt;Footer&gt; </li>
+  <li>Utilizar apropriadamente o elemento &lt;Header&gt; </li>
+  <li>Utilizar apropriadamente o elemento &lt;Main&gt; </li>
+  <li>Utilizar apropriadamente o elemento &lt;Article&gt; </li>
+  <li>Utilizar apropriadamente o elemento &lt;Aside&gt; </li>
+  <li>Utilizar apropriadamente o elemento &lt;Footer&gt; </li>
 </ul>
 
 <h2> Ponto de partida: </h2>
