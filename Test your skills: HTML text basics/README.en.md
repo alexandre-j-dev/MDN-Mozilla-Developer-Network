@@ -4,9 +4,9 @@
 
 Skills learned:
 <ul>  
-<li>Using semantic heading</li>
+<li>Semantic headings</li>
 <li>Paragraphs</li>
-<li>Unordered list and ordered list</li>
+<li>Unordered and ordered lists</li>
 <li>Markup appropriate words with strong and emphasis</li>  
 </ul>
 
