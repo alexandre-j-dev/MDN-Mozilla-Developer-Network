@@ -1,5 +1,5 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/main/README.en.md"> README</a></span>
-<span><i>Rep under improvements </i></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/main/README.en.md"> README</a></span><br>
+<span><i>This rep are still in improvements </i></span>
 
 
 <h1> Repositório de exercícios e anotações de documentação </h1>
