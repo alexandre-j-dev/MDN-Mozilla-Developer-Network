@@ -1,8 +1,7 @@
 
 <span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network"> README</a></span>
 
-<hr>
-<strong>English ver.</strong><br>
+
 <h1>Repository of exercises and documentation notes from MDN</h1>
 This repository was created to present some of my personal studies and also a way to organize my files. These studies are from a series of tutorials for web developers taken from MDN Web Docs. The main tools learned are HTML, CSS, Javascript.
 
