@@ -1,20 +1,22 @@
-# The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features.
+<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></p>
 
-Skills learned:
+<h1> O objetivo deste teste de habilidade é avaliar se você entende como usar elementos HTML menos conhecidos para marcar recursos semânticos avançados. </h1>
+
+<strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>  
-<li>Description lists</li>
-<li>Block-level and inline quotes</li>
-<li>&lt;cite&gt; element for quotes</li>
-<li>&lt;abbr&gt; element for abbreviations and acronyms</li>  
-<li>Subscript and superscript on text</li>
-<li>Semantically machine-readable dates with &lt;time&gt;</li>
+<li>Listas de descrição</li>
+<li>Citações bloco e em linha</li>
+<li>Elemento &lt;cite&gt; para citações</li>
+<li>Elemento &lt;abbr&gt; para abreviaturas e siglas</li>  
+<li>Subscrito e sobrescrito em textos</li>
+<li>Datas semanticamente legíveis por máquina com &lt;time&gt;</li>
 </ul>
 
-<strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/advanced_text.html"> Render </a><br>
+<strong>Veja abaixo</strong><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/advanced_text.html"> Renderizar </a><br>
 
-<strong>MDN skill tests</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text"> Link to this test </a>
+<strong>Testes de habilidade MDN</strong><br>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text"> Link para este teste </a>
 
-<strong>Assessment on Mozilla discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-advanced-text-skill-test-1/106611">Link to Assessment </a>
+<strong>Avaliação no Mozilla Discourse</strong><br>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-advanced-text-skill-test-1/106611">Link para avaliação </a>
