@@ -13,6 +13,8 @@ Para navegar pelo repositório basta selecionar a branch onde terá acesso aos e
 <strong>Sobre o MDN</strong><br>
 O MDN Web Docs é um projeto colaborativo de código aberto que documenta tecnologias de plataforma da Web, incluindo CSS, HTML, JavaScript e APIs da Web. Também fornecemos um amplo conjunto de recursos de aprendizado para desenvolvedores e estudantes iniciantes.
 
-A missão da MDN é fornecer um plano para uma internet melhor e capacitar uma nova geração de desenvolvedores e criadores de conteúdo para construí-la.
+A missão da MDN é fornecer um plano para uma internet melhor e capacitar uma nova geração de desenvolvedores e criadores de conteúdo para construí-la. <br>
+
+ <img src="https://imgur.com/GUeqvUQ" height="200px" align="center"/>
 
 
