@@ -1,3 +1,5 @@
+<span><i>Return to previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Projects:%20Structuring%20a%20page%20of%20content"> README</a></span>
+
 <h1> Project brief </h1>
 
 For this project, your task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it.
@@ -5,11 +7,11 @@ For this project, your task is to take the content for the homepage of a bird wa
 <strong>Skills learned (used):</strong>
 <ul>
   <li>Sectioning content with semantic tags</li>
-  <li>Wrapping content with &lt;Header&gt; element</li>
-  <li>Wrapping content with &lt;Main&gt; element</li>
-  <li>Wrapping content with &lt;Article&gt; element</li>
-  <li>Wrapping content with &lt;Aside&gt; element</li>
-  <li>Wrapping content with &lt;Footer&gt; element</li>
+  <li>Use &lt;Header&gt; element properly</li>
+  <li>Use &lt;Main&gt; element properly</li>
+  <li>Use &lt;Article&gt; element properly</li>
+  <li>Use &lt;Aside&gt; element properly</li>
+  <li>Use &lt;Footer&gt; element properly</li>
 </ul>
 
 <h2> Starting point: </h2>
@@ -58,7 +60,7 @@ https://validator.w3.org/  <br><hr>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Render </a><br>
 
 <strong>MDN skill tests</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link to this test </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link to this project </a>
 
 <strong>Assessment on mozilla discourse</strong><br>
 <a href=" ">Link to Assessment </a>
