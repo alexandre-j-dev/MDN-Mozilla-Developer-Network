@@ -1,6 +1,8 @@
-# The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features.
+<p><i>Return to previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/README.md"> README</a></p>
 
-Skills learned:
+<h1> The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features. </h1> 
+
+<strong>Skills learned (used):</strong>
 <ul>  
 <li>Description lists</li>
 <li>Block-level and inline quotes</li>
