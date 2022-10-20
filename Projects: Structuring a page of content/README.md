@@ -1,3 +1,5 @@
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Structuring%20a%20page%20of%20content/README.en.md"> README</a></span>
+
 <h1> Resumo do projeto </h1>
 
 Para este projeto, sua tarefa é pegar o conteúdo da página inicial de um site de observação de pássaros e adicionar elementos estruturais para que possa ter um layout de página aplicado a ele.
@@ -42,23 +44,23 @@ Baixe o arquivo <a href="https://raw.githubusercontent.com/mdn/learning-area/mai
 
 <h3>Dicas e sugestões</h3>
 <ul>
-  <li>Ultilize o the <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para detectar erros em seu HTML, CSS e SVG - erros que você poderia ter deixado passar percebido </li>
+  <li>Ultilize o the <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para detectar erros em seu HTML, CSS e SVG - erros que você poderia ter deixado passar despercebido. </li>
   <li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido dentro de um elemento HTML.</li>
-  <li>The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.</li>
-  <li>If you are getting stuck and can't envisage what elements to put where, draw out a simple block diagram of the page layout, and write on the elements you think should wrap each block. This is extremely helpful.</li>
+  <li>O CSS fornecido vai alterar as cores e o posicionamento dos elementos na página, apôs estruturados corretamente.</li>
+  <li>Desenhar o layout da página e escreva quais elementos que você acha que devem ir em cada bloco é extremamente útil.</li>
 </ul>
 
-Example:
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content/example-page.png"> Structuring a page of content (done) </a>
+Exemplo:
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content/example-page.png"> Structuring a page of content (feito) </a>
 
-Validator:
+Validador:
 https://validator.w3.org/  <br><hr>
   
-<strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Render </a><br>
+<strong>Veja abaixo</strong><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Renderizar </a><br>
 
-<strong>MDN skill tests</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link to this test </a>
+<strong>Testes de habilidade MDN</strong><br>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link para este projeto </a>
 
 <strong>Assessment on mozilla discourse</strong><br>
-<a href=" ">Link to Assessment </a>
+<a href=" ">Link para avaliação </a>
