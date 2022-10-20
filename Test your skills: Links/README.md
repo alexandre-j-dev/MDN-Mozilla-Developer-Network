@@ -19,9 +19,9 @@
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/links.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Link para este teste </a><br>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Link para este teste </a><br>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link para avaliação </a>
+<a target="_blank" href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link para avaliação </a>
 
 
