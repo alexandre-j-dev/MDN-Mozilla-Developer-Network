@@ -6,7 +6,7 @@ Skills learned:
 <li>Block-level and inline quotes</li>
 <li>&lt;cite&gt; element for quotes</li>
 <li>&lt;abbr&gt; element for abbreviations and acronyms</li>  
-<li>Subscript and superscript on text</li>
+<li>Subscript and superscript on texts</li>
 <li>Semantically machine-readable dates with &lt;time&gt;</li>
 </ul>
 
