@@ -44,8 +44,8 @@ Baixe o arquivo <a href="https://raw.githubusercontent.com/mdn/learning-area/mai
 
 <h3>Dicas e sugestões</h3>
 <ul>
-  <li>Ultilize o the <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para detectar erros em seu HTML, CSS e SVG - erros que você poderia ter deixado passar despercebido. </li>
-  <li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido dentro de um elemento HTML.</li>
+  <li>Ultilize o <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para detectar erros em seu HTML, CSS e SVG que podem ter passados despercebidos.</li>
+  <li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido dentro do HTML.</li>
   <li>O CSS fornecido vai alterar as cores e o posicionamento dos elementos na página, apôs estruturados corretamente.</li>
   <li>Desenhar o layout da página e escrever quais elementos que você acha que devem ir em cada bloco é extremamente útil.</li>
 </ul>
@@ -62,5 +62,5 @@ https://validator.w3.org/  <br><hr>
 <strong>Testes de habilidade MDN</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link para este projeto </a>
 
-<strong>Assessment on mozilla discourse</strong><br>
+<strong>Avaliação no Mozilla Discourse</strong><br>
 <a href=" ">Link para avaliação </a>
