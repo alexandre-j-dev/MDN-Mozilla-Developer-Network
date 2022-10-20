@@ -1,4 +1,4 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/main/README.en.md"> README</a></span>
 
 # Repositório de exercícios e anotações de documentação
 Este repositório foi criado para apresentar alguns dos meus estudos pessoais  e também uma forma de organizar meus arquivos. Estes estudos são de uma série de tutoriais para desenvolvedores web retirados do MDN Web Docs, As principais ferramentas aprendidas são HTML, CSS, Javascript.
