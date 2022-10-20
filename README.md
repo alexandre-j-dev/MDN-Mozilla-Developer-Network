@@ -15,6 +15,6 @@ O MDN Web Docs é um projeto colaborativo de código aberto que documenta tecnol
 
 A missão da MDN é fornecer um plano para uma internet melhor e capacitar uma nova geração de desenvolvedores e criadores de conteúdo para construí-la. <br>
 
- <img src="[https://imgur.com/GUeqvUQ](https://i.imgur.com/GUeqvUQ.jpg)" height="200px" align="center"/>
+ <img src="https://i.imgur.com/GUeqvUQ.jpg" height="200px" align="center"/>
 
 
