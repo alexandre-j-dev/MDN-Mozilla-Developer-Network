@@ -7,11 +7,11 @@ Para este projeto, sua tarefa é pegar o conteúdo da página inicial de um site
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
   <li>Secionando conteúdo com tags semânticas</li>
-  <li>Envolver conteúdos com elemento &lt;Header&gt; </li>
-  <li>Envolver conteúdos com elemento &lt;Main&gt; </li>
-  <li>Envolver conteúdos com elemento &lt;Article&gt; </li>
-  <li>Envolver conteúdos com elemento &lt;Aside&gt; </li>
-  <li>Envolver conteúdos com elemento &lt;Footer&gt; </li>
+  <li>Envolver conteúdos apropriadamente com elemento &lt;Header&gt; </li>
+  <li>Envolver conteúdos apropriadamente com elemento &lt;Main&gt; </li>
+  <li>Envolver conteúdos apropriadamente com elemento &lt;Article&gt; </li>
+  <li>Envolver conteúdos apropriadamente com elemento &lt;Aside&gt; </li>
+  <li>Envolver conteúdos apropriadamente com elemento &lt;Footer&gt; </li>
 </ul>
 
 <h2> Ponto de partida: </h2>
@@ -47,7 +47,7 @@ Baixe o arquivo <a href="https://raw.githubusercontent.com/mdn/learning-area/mai
   <li>Ultilize o the <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para detectar erros em seu HTML, CSS e SVG - erros que você poderia ter deixado passar despercebido. </li>
   <li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido dentro de um elemento HTML.</li>
   <li>O CSS fornecido vai alterar as cores e o posicionamento dos elementos na página, apôs estruturados corretamente.</li>
-  <li>Desenhar o layout da página e escreva quais elementos que você acha que devem ir em cada bloco é extremamente útil.</li>
+  <li>Desenhar o layout da página e escrever quais elementos que você acha que devem ir em cada bloco é extremamente útil.</li>
 </ul>
 
 Exemplo:
