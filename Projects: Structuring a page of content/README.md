@@ -57,7 +57,7 @@ Validador:
 https://validator.w3.org/  <br><hr>
   
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Structuring%20a%20page%20of%20content/birdwatching.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link para este projeto </a>
