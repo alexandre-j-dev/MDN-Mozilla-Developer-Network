@@ -1,4 +1,4 @@
-<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></p>
+<p><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/README.en.md"> README</a></p>
 
 <h1> O objetivo deste teste de habilidade é avaliar se você entende como usar elementos HTML menos conhecidos para marcar recursos semânticos avançados. </h1>
 
