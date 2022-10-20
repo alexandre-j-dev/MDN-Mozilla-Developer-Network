@@ -1,66 +1,68 @@
-<h1> Project brief </h1>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/README.en.md"> README</a></span>
 
-For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.
+<h1> Resumo do projeto </h1>
 
-<strong>Skills learned (used):</strong>
+Para este projeto, sua tarefa é estruturar uma carta que precisa ser hospedada em uma intranet da universidade. A carta é uma resposta de um bolsista a um futuro estudante de doutorado sobre sua inscrição na universidade.
+
+<strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
-<li>!DOCTYPE, lang, meta tags, utf-8, author, name, content </li>
-<li>Using semantic heading</li>
-<li>Unordered list and ordered list</li>
-<li>Description lists</li>
-<li>&lt;address&gt; element</li>
-<li>&lt;pre&gt; element</li>
-<li>Markup appropriate words with strong and emphasis</li>
-<li>Semantically machine-readable dates with &lt;time&gt;</li>
-<li>&lt;abbr&gt; element for abbreviations and acronyms</li> 
-<li>Subscript and superscript on text</li>
-<li>Create hyperlinks</li>
-<li>Good pratices on link names</li>  
-<li>&lt;cite&gt; element for quotes</li>
+<li>!DOCTYPE, lang, tags meta, utf-8, autor, nome, conteúdo </li>
+<li>Utilizando títulos semânticos</li>
+<li>Listas ordenadas e não ordenadas</li>
+<li>Listas de descrição</li>
+<li>Elemento &lt;address&gt; </li>
+<li>Elemento &lt;pre&gt; </li>
+<li>Marcar palavras apropriadas com strong e emphasis</li>
+<li>Datas semanticamente legíveis por máquina com &lt;time&gt;</li>
+<li>Elemento &lt;abbr&gt; para abreviações e siglas</li> 
+<li>Subscrito e sobrescrito em textos</li>
+<li>Criar hyperlinks</li>
+<li>Boas práticas em nomes de links</li>  
+<li>Elemento &lt;cite&gt; para citações (fonte)</li>
 </ul>
 
-<h2> Starting point: </h2>
-Create a new .html file using your text editor of preference or use an online tool, them copy the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">raw text</a> for the project and link with the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">stylesheet</a>.
+<h2> Ponto de partida: </h2>
+Crie um novo arquivo .html em seu editor de texto de preferência ou ultilize uma ferramenta online, então copie o <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">texto</a> para o projeto e vincule-o à <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">folha de estilos</a>.
 
 
-<h2> Requirements: </h2>
-<h3> Block/structural semantics </h3>
+<h2> Requisitos: </h2>
+<h3> Semânticas de bloco/estrutura </h3>
 <ul>
-<li>Use appropriate document structure including doctype, and &lt;html&gt;, &lt;head&gt; and &lt;body&gt; elements.</li>
-<li>In general, the letter should be marked up as an organization of headings and paragraphs, with the following exception. There is one top level heading (the "Re:" line) and three second level headings.</li>
-<li>Use an appropriate list type to mark up the semester start dates, study subjects, and exotic dances.</li>
-<li>Put the two addresses inside <address> elements. Each line of the address should sit on a new line, but not be in a new paragraph.</li>
+<li>Use a estrutura de documento apropriada, incluindo doctype e elementos &lt;html&gt;, &lt;head&gt; and &lt;body&gt;.</li>
+<li>Em geral, a carta deve ser estruturada com uma organização de títulos e parágrafos, com a seguinte exceção. Há um título de nível superior (na linha "Re:") e três títulos de nível 2.</li>
+<li>Use um tipo de lista apropriado para marcar as datas de início do semestre, assuntos de estudo e danças exóticas.</li>
+<li>Coloque os dois endereços dentro dos elementos apropriados. Cada linha do endereço deve estar em uma nova linha, mas não em um novo parágrafo.</li>
 </ul>
 
-<h3>Inline semantics</h3>
+<h3>Semânticas em linhas</h3>
 <ul>
-<li>The names of the sender and receiver (and Tel and Email) should be marked up with strong importance.</li>
-<li>The four dates in the document should have appropriate elements containing machine-readable dates.</li>
-<li>The first address and first date in the letter should have a class attribute value of sender-column. The CSS you'll add later will cause these to be right aligned, as it should be in the case in a classic letter layout.</li>
-<li>Mark up the following five acronyms/abbreviations in the main text of the letter — "PhD," "HTML," "CSS," "BC," and "Esq." — to provide expansions of each one.</li>
-<li>The six sub/superscripts should be marked up appropriately — in the chemical formulae, and the numbers 103 and 104 (they should be 10 to the power of 3 and 4, respectively).</li>
-<li>Try to mark up at least two appropriate words in the text with strong importance/emphasis.</li>
-<li>There are two places where the letter should have a hyperlink. Add appropriate links with titles. For the location that the links point to, you may use http://example.com as the URL.</li>
-<li>Mark up the university motto quote and citation with appropriate elements.</li>
+<li>Os nomes do remetente e do destinatário (e Tel e Email) devem ser marcados com forte importância.</li>
+<li>As quatro datas no documento devem ter elementos apropriados para serem datas legíveis por máquina.</li>
+<li>O primeiro endereço e a primeira data da carta devem ter um valor de atributo de classe sender-column. O CSS que você vai adicionar mais tarde fará com que eles sejam alinhados à direita, como deveria ser no caso de um layout de carta clássico.</li>
+<li>Marque os cinco acrônimos/abreviações a seguir no texto principal da carta — "PhD", "HTML", "CSS", "BC" e "Esq." — e forneça as expansões de cada um.</li>
+<li>Os seis subscritos/sobrescritos devem ser marcados apropriadamente — nas fórmulas químicas e os números 103 e 104 (devem ser 10 elevado a 3 e 4, respectivamente).</li>
+<li>Tente marcar pelo menos duas palavras apropriadas no texto com strong e emphasis.</li>
+<li>Há dois lugares na carta que devem ter links. Adicione links apropriados com títulos. Para o local que os links apontam você pode usar como URL http://example.com </li>
+<li>Marque o lema da universidade e sua citação com elementos apropriados.</li>
 </ul>
 
-<h3>Hints and tips</h3>
+<h3>Dicas e sugestões</h3>
 <ul>
-<li>Use the W3C HTML validator to validate your HTML. Award yourself bonus points if it validates.</li>
-<li>You don't need to know any CSS to do this assignment. You just need to put the provided CSS inside an HTML element.</li>
+<li>Ultilize o <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para detectar erros em seu HTML, CSS e SVG que podem ter passados despercebidos.</li>
+<li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido dentro do HTML.</li>
 </ul>
 
-Example:
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Marking up a letter (done) </a>
+Exemplo:
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Marking up a letter (feito) </a>
 
-Validator:
+Validador:
 https://validator.w3.org/  <br><hr>
   
-<strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Render </a><br>
+<strong>Veja abaixo</strong><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Renderizar </a><br>
 
-<strong>MDN skill tests</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Link to this test </a>
+<strong>Testes de habilidade MDN</strong><br>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Link para este projeto </a>
 
-<strong>Assessment on mozilla discourse</strong><br>
-<a href=" ">Link to Assessment </a>
+<strong>Avaliação no Mozilla Discourse</strong><br>
+<a href=" ">Link para avaliação </a>
