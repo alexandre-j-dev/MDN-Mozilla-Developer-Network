@@ -65,4 +65,4 @@ https://validator.w3.org/  <br><hr>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Link para este projeto </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href=" ">Link para avaliação </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-marking-up-a-letter-exercise/106851/2">Link para avaliação </a>
