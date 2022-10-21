@@ -63,4 +63,4 @@ https://validator.w3.org/  <br><hr>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link para este projeto </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href=" ">Link para avaliação </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-structuring-a-page-of-content-exercise/106853">Link para avaliação </a>
