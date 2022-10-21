@@ -6,9 +6,9 @@
 <ul>  
 <li>Inserir imagens</li>
 <li>URLs absolutas e relativas</li>
-<li>Boa praticas, cuidados com Hotlink</li>
-<li>Importância do atributos alt</li>
-<li>Elemento &lt;figure&gt; e &lt;figcaption&gt; para conteúdos com legendas</li>
+<li>Boa praticas, atenção com Hotlinks</li>
+<li>Importância do atributo alt</li>
+<li>Elementos &lt;figure&gt; e &lt;figcaption&gt; para conteúdos com legendas</li>
 </ul>
 
 <strong>Veja abaixo</strong><br>
