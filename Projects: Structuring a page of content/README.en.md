@@ -1,4 +1,4 @@
-<span><i>Return to previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Projects:%20Structuring%20a%20page%20of%20content"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Projects:%20Structuring%20a%20page%20of%20content"> README</a></span>
 
 <h1> Project brief </h1>
 
@@ -62,5 +62,5 @@ https://validator.w3.org/  <br><hr>
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link to this project </a>
 
-<strong>Assessment on mozilla discourse</strong><br>
-<a href=" ">Link to Assessment </a>
+<strong>Assessment on Mozilla Discourse</strong><br>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-structuring-a-page-of-content-exercise/106853">Link to assessment </a>
