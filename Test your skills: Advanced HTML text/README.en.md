@@ -1,4 +1,4 @@
-<span><i>Return to previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/README.md"> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Test%20your%20skills:%20Advanced%20HTML%20text"> README</a></span>
 
 <h1> The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features. </h1> 
 
@@ -18,5 +18,5 @@
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text"> Link to this test </a>
 
-<strong>Assessment on Mozilla discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-advanced-text-skill-test-1/106611">Link to Assessment </a>
+<strong>Assessment on Mozilla Discourse</strong><br>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-advanced-text-skill-test-1/106611">Link to assessment </a>
