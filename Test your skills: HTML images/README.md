@@ -12,7 +12,7 @@
 </ul>
 
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/advanced_text.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20images/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images"> Link para este teste </a>
