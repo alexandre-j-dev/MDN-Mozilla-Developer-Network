@@ -20,6 +20,6 @@
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding"> Link para este teste </a><br>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a target="_blank" href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link para avaliação </a>
+<a target="_blank" href="https://discourse.mozilla.org/t/assessment-wanted-for-html-multimedia-and-embedding-task/107048">Link para avaliação </a>
 
 
