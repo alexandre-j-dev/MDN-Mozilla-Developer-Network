@@ -6,10 +6,10 @@
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>  
 <li>Incorporar conteúdos de terceiros (vídeo, áudio, mapas)</li>
-<li>Adicionar legendas e subtiltulos </li>  
-<li>Formatos de mídia mais ultilizados</li> 
+<li>Adicionar legendas e subtítulos </li>  
+<li>Formatos de mídia mais utilizados</li> 
 <li>Segurança com iframes para evitar Clickjacking</li>
-<li>Lado servidor HTTPS, X-Frame-Options, headers de segurança</li>
+<li>(lado do servidor) HTTPS, X-Frame-Options, CSP headers de segurança</li>
 </ul>
   
  
