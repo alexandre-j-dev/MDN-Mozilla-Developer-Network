@@ -7,7 +7,8 @@
 <li>Incorporating third-party contents (video, audio, maps)</li>
 <li>Add captions and subtitles to videos</li>
 <li>Most commonly used media formats</li>
-<li>Security with iframes for avoid Clickjacking</li>  
+<li>Increasing iframes security with the sandbox attribute</li>  
+<li>Measures against Clickjacking e Cross-Site Scripting attacks</li>
 <li>(server side) HTTPS, X-Frame-Options, CSP security headers</li> 
 </ul>
   
