@@ -15,7 +15,7 @@
   
  
 <strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/links.html"> Render </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/index.html"> Render </a><br>
 
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Link to this test </a><br>
