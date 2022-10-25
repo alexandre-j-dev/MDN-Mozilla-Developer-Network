@@ -18,4 +18,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images"> Link to this test </a>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
-<a href=" ">Link to assessment </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-images-task/107035">Link to assessment </a>
