@@ -8,7 +8,8 @@
 <li>Incorporar conteúdos de terceiros (vídeo, áudio, mapas)</li>
 <li>Adicionar legendas e subtítulos a vídeos </li>  
 <li>Formatos de mídia mais utilizados</li> 
-<li>Segurança com iframes para evitar Clickjacking</li>
+<li>Segurança de iframes, atributo sandbox</li>
+<li>Medidas contra ataques Clickjacking e Cross-Site Scripting</li>
 <li>(lado do servidor) HTTPS, X-Frame-Options, CSP headers de segurança</li>
 </ul>
   
