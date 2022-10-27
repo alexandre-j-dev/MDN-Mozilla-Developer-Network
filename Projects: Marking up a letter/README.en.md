@@ -59,7 +59,7 @@ Validator:
 https://validator.w3.org/  <br><hr>
   
 <strong>See it below</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/markup_letter.html"> Render </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/index.html"> Render </a><br>
 
 <strong>MDN skill tests</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Link to this test </a>
