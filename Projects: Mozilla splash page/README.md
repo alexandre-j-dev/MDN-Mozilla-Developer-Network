@@ -12,6 +12,7 @@
 <li>Listas de descrição</li>
 <li>Elemento &lt;picture&gt;</li>
 <li>Minimizando o consumo de largura de banda em imagens</li>
+<li>Editar imagens raster e vetoriais (svg)</li>
 </ul>
 
 <h2> Ponto de partida: </h2>
