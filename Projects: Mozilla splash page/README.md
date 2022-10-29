@@ -1,50 +1,52 @@
-<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/README.en.md"> README</a></span>
+<span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Mozilla%20splash%20page/README.en.md"> README</a></span>
 
 <h1> Resumo do projeto </h1>
 
-Para este projeto, sua tarefa é estruturar uma carta que precisa ser hospedada em uma intranet da universidade. A carta é uma resposta de um bolsista a um futuro estudante de doutorado sobre sua inscrição na universidade.
+<p>Neste projeto, apresentamos a você uma página inicial da Mozilla quase finalizada, que visa dizer algo legal e interessante sobre o que a Mozilla representa e fornecer alguns links para outros recursos. Infelizmente, nenhuma imagem ou vídeo foi adicionado ainda - este é o seu trabalho! Você precisa adicionar alguma mídia para tornar a página bonita e fazer mais sentido. As seguintes subseções detalham o que você precisa fazer:</p>
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
-<li>!DOCTYPE, lang, tags meta, utf-8, autor, nome, conteúdo </li>
-<li>Utilizando títulos semânticos</li>
-<li>Listas ordenadas e não ordenadas</li>
+<li>Imagens responsivas</li>
+<li>Problemas de mudança de resolução e direção de arte</li>
+<li>Atributos scrset e size</li>
 <li>Listas de descrição</li>
-<li>Elemento &lt;address&gt; </li>
-<li>Elemento &lt;pre&gt; </li>
-<li>Marcar palavras apropriadas com strong e emphasis</li>
-<li>Datas semanticamente legíveis por máquina com &lt;time&gt;</li>
-<li>Elemento &lt;abbr&gt; para abreviações e siglas</li> 
-<li>Subscrito e sobrescrito em textos</li>
-<li>Criar hyperlinks</li>
-<li>Boas práticas em nomes de links</li>  
-<li>Elemento &lt;cite&gt; para citações (fonte)</li>
+<li>Elemento &lt;picture&gt;</li>
+<li>Minimizando o consumo de largura de banda em imagens</li>
 </ul>
 
 <h2> Ponto de partida: </h2>
-Crie um novo arquivo .html em seu editor de texto de preferência ou ultilize uma ferramenta online, então copie o <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">texto</a> para o projeto e vincule-o à <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">folha de estilos</a>.
+<p>Para iniciar esta avaliação, você precisa pegar o HTML e todas as imagens disponíveis no diretório mdn-splash-page-start no github. Salve o conteúdo de <a href="https://github.com/mdn/learning-area/tree/main/html/multimedia-and-embedding/mdn-splash-page-start"> mdn-splash-page-start </a> diretório no github. Salve o conteúdo de <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/index.html"> index.html </a> em um arquivo chamado index.html em sua unidade local, em um novo diretório. Em seguida, salve <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png"> pattern.png </a> no mesmo diretório (clique com o botão direito na imagem para obter uma opção para salvá-la.) </p>
 
 
 <h2> Requisitos: </h2>
-<h3> Semânticas de bloco/estrutura </h3>
+<h3> Preparando imagens </h3>
+<p>Usando seu editor de imagens favorito, crie versões de 400px de largura e 120px de largura de:</p>
 <ul>
-<li>Use a estrutura de documento apropriada, incluindo doctype e elementos &lt;html&gt;, &lt;head&gt; and &lt;body&gt;.</li>
-<li>Em geral, a carta deve ser estruturada com uma organização de títulos e parágrafos, com a seguinte exceção. Há um título de nível superior (na linha "Re:") e três títulos de nível 2.</li>
-<li>Use um tipo de lista apropriado para marcar as datas de início do semestre, assuntos de estudo e danças exóticas.</li>
-<li>Coloque os dois endereços dentro dos elementos apropriados. Cada linha do endereço deve estar em uma nova linha, mas não em um novo parágrafo.</li>
+<li>firefox_logo-only_RGB.png</li>
+<li>firefox-addons.jpg</li>
+<li>mozilla-dinosaur-head.png</li>
 </ul>
 
-<h3>Semânticas em linhas</h3>
-<ul>
-<li>Os nomes do remetente e do destinatário (e Tel e Email) devem ser marcados com forte importância.</li>
-<li>As quatro datas no documento devem ter elementos apropriados para serem datas legíveis por máquina.</li>
-<li>O primeiro endereço e a primeira data da carta devem ter um valor de atributo de classe sender-column. O CSS que você vai adicionar mais tarde fará com que eles sejam alinhados à direita, como deveria ser no caso de um layout de carta clássico.</li>
-<li>Marque os cinco acrônimos/abreviações a seguir no texto principal da carta — "PhD", "HTML", "CSS", "BC" e "Esq." — e forneça as expansões de cada um.</li>
-<li>Os seis subscritos/sobrescritos devem ser marcados apropriadamente — nas fórmulas químicas e os números 103 e 104 (devem ser 10 elevado a 3 e 4, respectivamente).</li>
-<li>Tente marcar pelo menos duas palavras apropriadas no texto com strong e emphasis.</li>
-<li>Há dois lugares na carta que devem ter links. Adicione links apropriados com títulos. Para o local que os links apontam você pode usar como URL http://example.com </li>
-<li>Marque o lema da universidade e sua citação com elementos apropriados.</li>
-</ul>
+<p>Chame-os de algo sensato, por exemplo. firefoxlogo400.png e firefoxlogo120.png</p>
+
+<p>Junto com mdn.svg, essas imagens serão seus ícones para vincular a outros recursos, dentro da área de informações adicionais. Você também criará um link para o logotipo do Firefox no cabeçalho do site. Salve cópias de tudo isso dentro do mesmo diretório que index.html.</p>
+
+<p>Em seguida, crie uma versão de paisagem de 1200px de red-panda.jpg e uma versão de retrato de 600px de largura que mostre o panda em mais de um close-up. Novamente, chame-os de algo sensato para que você possa identificá-los facilmente. Salve uma cópia de ambos dentro do mesmo diretório que index.html.</p>
+
+<p>Você deve otimizar suas imagens JPG e PNG para torná-las tão pequenas quanto possível, enquanto ainda parecem boas. O tinypng.com é um ótimo serviço para fazer isso facilmente.</p>
+
+<h3>Adicionando um logotipo ao cabeçalho</h3>
+<p>Dentro do elemento &lt;header&gt;, adicione um elemento &lt;img&gt; que incorporará a versão pequena do logotipo do Firefox no cabeçalho.</p>
+
+<h3>Adicionando um vídeo ao conteúdo do artigo principal</h3>
+<p>Logo dentro do elemento &lt;article&gt; (logo abaixo da tag de abertura), incorpore o vídeo do YouTube encontrado em <a href="https://www.youtube.com/watch?v=ojcNcvb1olg"> https://www.youtube.com/watch?v=ojcNcvb1olg </a>, usando as ferramentas apropriadas do YouTube para gerar o código. O vídeo deve ter 400px de largura.</p>
+
+<h3>Adicionando imagens responsivas aos links de informações adicionais</h3>
+<p>Dentro do &lt;div&gt; com a classe de informações adicionais, você encontrará quatro elementos &lt;a&gt; — cada um com um link para uma página interessante relacionada ao Mozilla. Para completar esta seção, você precisará inserir um &lt;img&gt; elemento dentro de cada um contendo os atributos src, alt, srcset e tamanhos apropriados. Em cada caso (exceto um - qual é inerentemente responsivo?) queremos que o navegador veicule a versão de 120px de largura quando a largura da janela de visualização for de 500px de largura ou menos, ou a versão de 400px de largura caso contrário. Certifique-se de combinar as imagens corretas com os links corretos!
+
+<h3>Art direction do panda vermelho </h3>
+<p>Dentro do &lt;div&gt; com a classe red-panda, queremos inserir um elemento <picture> que serve a pequena imagem de panda de retrato se a janela de visualização tiver 600px de largura ou menos, e a imagem de paisagem grande caso contrário.
+</p>
 
 <h3>Dicas e sugestões</h3>
 <ul>
@@ -52,11 +54,14 @@ Crie um novo arquivo .html em seu editor de texto de preferência ou ultilize um
 <li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido dentro do HTML.</li>
 </ul>
 
-Exemplo:
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter/letter-update.png"> Marking up a letter (feito) </a>
+Examplo:
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page/wide-shot.png"> Mozilla splash page (done) </a></li> 
+<li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page/narrow-shot.png"> Narrow ver. </a></li>
+</ul>
 
 Validador:
-https://validator.w3.org/  <br><hr>
+<a href="https://validator.w3.org/">https://validator.w3.org</a>  <br><hr>
   
 <strong>Veja abaixo</strong><br>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/index.html"> Renderizar </a><br>
