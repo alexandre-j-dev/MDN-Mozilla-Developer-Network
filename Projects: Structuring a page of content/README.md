@@ -6,7 +6,7 @@
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
-  <li>Secionando conteúdo com tags semânticas</li>
+  <li>Secionar conteúdos com tags semânticas</li>
   <li>Utilizar apropriadamente o elemento &lt;Header&gt; </li>
   <li>Utilizar apropriadamente o elemento &lt;Main&gt; </li>
   <li>Utilizar apropriadamente o elemento &lt;Article&gt; </li>
