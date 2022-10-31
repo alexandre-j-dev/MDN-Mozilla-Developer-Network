@@ -64,10 +64,10 @@ Validador:
 <a href="https://validator.w3.org/">https://validator.w3.org</a>  <br><hr>
   
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Marking%20up%20a%20letter/index.html"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Mozilla%20splash%20page/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter"> Link para este projeto </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page"> Link para este projeto </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-marking-up-a-letter-exercise/106851/2">Link para avaliação </a>
+<a href=" ">Link para avaliação </a>
