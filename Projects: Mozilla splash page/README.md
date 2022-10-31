@@ -15,7 +15,7 @@
 </ul>
 
 <h2> Ponto de partida: </h2>
-<p>Para iniciar este projeto, você precisa do HTML e das imagens disponíveis no diretório do github <a href="https://github.com/mdn/learning-area/tree/main/html/multimedia-and-embedding/mdn-splash-page-start"> mdn-splash-start-page </a>. Salve o conteúdo de <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/index.html"> index.html </a> em um novo arquivo chamado index.html em sua máquina local. Em seguida, salve <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png"> pattern.png </a> no mesmo diretório. </p>
+<p>Para iniciar este projeto, você precisa do HTML e das imagens disponíveis no diretório do github <a href="https://github.com/mdn/learning-area/tree/main/html/multimedia-and-embedding/mdn-splash-page-start"> mdn-splash-start-page.</a> Salve o conteúdo de <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/index.html"> index.html </a> em um novo arquivo chamado index.html em sua máquina local. Em seguida, salve <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png"> pattern.png </a> no mesmo diretório. </p>
 
 
 <h2> Requisitos: </h2>
