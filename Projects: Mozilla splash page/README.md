@@ -15,12 +15,12 @@
 </ul>
 
 <h2> Ponto de partida: </h2>
-<p>Para iniciar esta avaliação, você precisa pegar o HTML e todas as imagens disponíveis no diretório mdn-splash-page-start no github. Salve o conteúdo de <a href="https://github.com/mdn/learning-area/tree/main/html/multimedia-and-embedding/mdn-splash-page-start"> mdn-splash-page-start </a> diretório no github. Salve o conteúdo de <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/index.html"> index.html </a> em um arquivo chamado index.html em sua unidade local, em um novo diretório. Em seguida, salve <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png"> pattern.png </a> no mesmo diretório (clique com o botão direito na imagem para obter uma opção para salvá-la.) </p>
+<p>Para iniciar este projeto, você precisa do HTML e das imagens disponíveis no diretório do github <a href="https://github.com/mdn/learning-area/tree/main/html/multimedia-and-embedding/mdn-splash-page-start"> mdn-splash-start-page </a>. Salve o conteúdo de <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/index.html"> index.html </a> em um novo arquivo chamado index.html em sua máquina local. Em seguida, salve <a href="https://github.com/mdn/learning-area/blob/main/html/multimedia-and-embedding/mdn-splash-page-start/pattern.png"> pattern.png </a> no mesmo diretório. </p>
 
 
 <h2> Requisitos: </h2>
 <h3> Preparando imagens </h3>
-<p>Usando seu editor de imagens favorito, crie versões de 400px de largura e 120px de largura de:</p>
+<p>Usando seu editor de imagens favorito, crie versões de 400px e 120px de largura de:</p>
 <ul>
 <li>firefox_logo-only_RGB.png</li>
 <li>firefox-addons.jpg</li>
