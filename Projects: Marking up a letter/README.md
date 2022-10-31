@@ -2,7 +2,7 @@
 
 <h1> Resumo do projeto </h1>
 
-Para este projeto, sua tarefa é estruturar uma carta que precisa ser hospedada em uma intranet da universidade. A carta é uma resposta de um bolsista a um futuro estudante de doutorado sobre sua inscrição na universidade.
+<p>Para este projeto, sua tarefa é estruturar uma carta que precisa ser hospedada em uma intranet da universidade. A carta é uma resposta de um bolsista a um futuro estudante de doutorado sobre sua inscrição na universidade.</p>
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
@@ -22,7 +22,7 @@ Para este projeto, sua tarefa é estruturar uma carta que precisa ser hospedada 
 </ul>
 
 <h2> Ponto de partida: </h2>
-Crie um novo arquivo .html em seu editor de texto de preferência ou ultilize uma ferramenta online, então copie o <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">texto</a> para o projeto e vincule-o à <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">folha de estilos</a>.
+<p>Crie um novo arquivo .html em seu editor de texto de preferência ou ultilize uma ferramenta online, então copie o <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">texto</a> para o projeto e vincule-o à <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">folha de estilos</a>.</p>
 
 
 <h2> Requisitos: </h2>
