@@ -9,7 +9,7 @@
 <li>Elemento &lt;cite&gt; para citações</li>
 <li>Elemento &lt;abbr&gt; para abreviaturas e siglas</li>
 <li>Subscrito e sobrescrito em textos</li>
-<li>Datas semanticamente legíveis por máquina com <time></li>
+<li>Datas semanticamente legíveis por máquina com  &lt;time&gt;</li>
 </ul>
 
 <strong>Veja abaixo</strong><br>
