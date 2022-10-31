@@ -8,10 +8,10 @@
 <ul>
 <li>Responsive images</li>
 <li>Resolution switching and Art direction problems</li>
+<li>Raster and vector (svg) images</li>
 <li>scrset e sizes atributes</li>
 <li>&lt;picture&gt; element</li>
 <li>Minimizing bandwidth consumption on images</li>
-<li>Edit raster and vector (svg) images</li>
 </ul>
 
 <h2> Starting point: </h2>
