@@ -15,7 +15,7 @@
 </ul>
 
 <h2> Ponto de partida: </h2>
-<p>Baixe o arquivo <a href="https://raw.githubusercontent.com/mdn/learning-area/main/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip">assets.zip (292,5kb)</a> e extraia-o em uma pasta. Depois disso, abra o arquivo index.html usando um editor de sua preferência para iniciar o projeto.</p>
+<p>Baixe o arquivo <a href="https://raw.githubusercontent.com/mdn/learning-area/main/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip">assets.zip (292,5kb)</a> e extraia-o em uma pasta. Depois disso, abra o arquivo index.html usando um editor de sua preferência para iniciar o projeto.</p> 
 
 
 <h2> Requisitos: </h2>
