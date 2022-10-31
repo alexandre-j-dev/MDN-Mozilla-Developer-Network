@@ -2,7 +2,7 @@
 
 <h1> Project brief </h1>
 
-For this project, your task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it.
+<p>For this project, your task is to take the content for the homepage of a bird watching website and add structural elements to it so it can have a page layout applied to it.</p>
 
 <strong>Skills learned (used):</strong>
 <ul>
@@ -15,7 +15,7 @@ For this project, your task is to take the content for the homepage of a bird wa
 </ul>
 
 <h2> Starting point: </h2>
-Download the <a href="https://raw.githubusercontent.com/mdn/learning-area/main/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip">assets.zip (292,5kb)</a> file and extract it into a folder. After that, open the index.html file using an editor of your preference to start the project.
+<p>Download the <a href="https://raw.githubusercontent.com/mdn/learning-area/main/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip">assets.zip (292,5kb)</a> file and extract it into a folder. After that, open the index.html file using an editor of your preference to start the project.</p>
 
 
 <h2> Requirements: </h2>
