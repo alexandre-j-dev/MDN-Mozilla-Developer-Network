@@ -4,11 +4,12 @@
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>  
-<li>Inserir imagens</li>
-<li>URLs absolutas e relativas</li>
-<li>Boa praticas, cuidados com Hotlink</li>
-<li>Importância do atributos alt</li>
-<li>Elemento &lt;figure&gt; e &lt;figcaption&gt; para conteúdos com legendas</li>
+<li>Listas de descrição</li>
+<li>Citações de bloco e em linha</li>
+<li>Elemento <cite> para citações</li>
+<li>Elemento <abbr> para abreviaturas e siglas</li>
+<li>Subscrito e sobrescrito em textos</li>
+<li>Datas semanticamente legíveis por máquina com <time></li>
 </ul>
 
 <strong>Veja abaixo</strong><br>
