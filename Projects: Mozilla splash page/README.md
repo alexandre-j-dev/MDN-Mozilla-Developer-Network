@@ -2,7 +2,7 @@
 
 <h1> Resumo do projeto </h1>
 
-<p>Neste projeto, apresentamos a você uma página inicial da Mozilla quase finalizada, que visa dizer algo legal e interessante sobre o que a Mozilla representa e fornecer alguns links para outros recursos. Infelizmente, nenhuma imagem ou vídeo foi adicionado ainda - este é o seu trabalho! Você precisa adicionar alguma mídia para tornar a página bonita e fazer mais sentido. As seguintes subseções detalham o que você precisa fazer:</p>
+<p>Neste projeto, temos uma página inicial do Mozilla quase finalizada, que visa dizer algo legal e interessante sobre o que o Mozilla representa e fornecer alguns links para outros recursos. Infelizmente, nenhuma imagem ou vídeo foi adicionado ainda - este é o seu trabalho! Você precisa adicionar algumas mídias para tornar a página bonita e fazer mais sentido. As seguintes subseções detalham o que precisa ser feito:</p>
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
