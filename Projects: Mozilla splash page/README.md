@@ -6,12 +6,12 @@
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
-<li>Imagens responsivas</li>
+<li>Imagens responsivas nas páginas</li>
 <li>Problemas de mudança de resolução e direção de arte</li>
+<li>Imagens raster e vetoriais (svg)</li>
 <li>Atributos scrset e size</li>
 <li>Elemento &lt;picture&gt;</li>
-<li>Minimizando o consumo de largura de banda em imagens</li>
-<li>Editar imagens raster e vetoriais (svg)</li>
+<li>Minimizando consumo de largura de banda em imagens</li>
 </ul>
 
 <h2> Ponto de partida: </h2>
