@@ -2,7 +2,7 @@
 
 <h1> Project brief </h1>
 
-For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.
+<p>For this project, your task is to mark up a letter that needs to be hosted on a university intranet. The letter is a response from a research fellow to a prospective PhD student concerning their application to the university.</p>
 
 <strong>Skills learned (used):</strong>
 <ul>
@@ -22,7 +22,7 @@ For this project, your task is to mark up a letter that needs to be hosted on a 
 </ul>
 
 <h2> Starting point: </h2>
-Create a new .html file using your text editor of preference or use an online tool, them copy the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">raw text</a> for the project and link with the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">stylesheet</a>.
+<p>Create a new .html file using your text editor of preference or use an online tool, them copy the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/letter-text.txt">raw text</a> for the project and link with the <a href="https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt">stylesheet</a>.</p>
 
 
 <h2> Requirements: </h2>
