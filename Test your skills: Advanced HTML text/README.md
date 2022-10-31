@@ -1,6 +1,6 @@
 <span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/README.en.md"> README</a></span>
 
-<h1> O objetivo deste teste de habilidade é avaliar se você entender sobre imagens e como incorporá-las em HTML. </h1>
+<h1> O objetivo deste teste de habilidade é avaliar se você entende como usar recursos semânticos mais avançados para marcar textos em HTML. </h1>
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>  
