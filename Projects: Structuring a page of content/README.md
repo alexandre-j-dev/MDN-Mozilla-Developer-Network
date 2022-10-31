@@ -2,7 +2,7 @@
 
 <h1> Resumo do projeto </h1>
 
-<p>Para este projeto, sua tarefa é pegar o conteúdo da página inicial de um site de observação de pássaros e adicionar elementos estruturais para que possa ter um layout de página aplicado a ele.</p>
+<p>Para este projeto, sua tarefa é pegar o conteúdo de uma página inicial de um site de observação de pássaros, e adicionar elementos estruturais apropriados para que a página possa ter um layout e a semântica correta.</p>
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
