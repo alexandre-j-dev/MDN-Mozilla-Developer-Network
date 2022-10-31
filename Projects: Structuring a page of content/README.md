@@ -2,7 +2,7 @@
 
 <h1> Resumo do projeto </h1>
 
-Para este projeto, sua tarefa é pegar o conteúdo da página inicial de um site de observação de pássaros e adicionar elementos estruturais para que possa ter um layout de página aplicado a ele.
+<p>Para este projeto, sua tarefa é pegar o conteúdo da página inicial de um site de observação de pássaros e adicionar elementos estruturais para que possa ter um layout de página aplicado a ele.</p>
 
 <strong>Habilidades aprendidas (ultilizadas):</strong>
 <ul>
@@ -15,7 +15,7 @@ Para este projeto, sua tarefa é pegar o conteúdo da página inicial de um site
 </ul>
 
 <h2> Ponto de partida: </h2>
-Baixe o arquivo <a href="https://raw.githubusercontent.com/mdn/learning-area/main/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip">assets.zip (292,5kb)</a> e extraia-o em uma pasta. Depois disso, abra o arquivo index.html usando um editor de sua preferência para iniciar o projeto.
+<p>Baixe o arquivo <a href="https://raw.githubusercontent.com/mdn/learning-area/main/html/introduction-to-html/structuring-a-page-of-content-start/assets.zip">assets.zip (292,5kb)</a> e extraia-o em uma pasta. Depois disso, abra o arquivo index.html usando um editor de sua preferência para iniciar o projeto.</p>
 
 
 <h2> Requisitos: </h2>
