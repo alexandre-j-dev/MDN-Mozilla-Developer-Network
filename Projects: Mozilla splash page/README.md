@@ -9,7 +9,6 @@
 <li>Imagens responsivas</li>
 <li>Problemas de mudança de resolução e direção de arte</li>
 <li>Atributos scrset e size</li>
-<li>Listas de descrição</li>
 <li>Elemento &lt;picture&gt;</li>
 <li>Minimizando o consumo de largura de banda em imagens</li>
 <li>Editar imagens raster e vetoriais (svg)</li>
