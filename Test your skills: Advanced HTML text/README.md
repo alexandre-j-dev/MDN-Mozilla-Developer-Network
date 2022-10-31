@@ -15,7 +15,7 @@
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Advanced%20HTML%20text/advanced_text.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images"> Link para este teste </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text"> Link para este teste </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href=" ">Link para avaliação </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-advanced-text-skill-test-1/106611/2">Link para avaliação </a>
