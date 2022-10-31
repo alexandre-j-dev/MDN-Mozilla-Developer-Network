@@ -6,8 +6,8 @@
 <ul>  
 <li>Listas de descrição</li>
 <li>Citações de bloco e em linha</li>
-<li>Elemento <cite> para citações</li>
-<li>Elemento <abbr> para abreviaturas e siglas</li>
+<li>Elemento &lt;cite&gt; para citações</li>
+<li>Elemento &lt;abbr&gt; para abreviaturas e siglas</li>
 <li>Subscrito e sobrescrito em textos</li>
 <li>Datas semanticamente legíveis por máquina com <time></li>
 </ul>
