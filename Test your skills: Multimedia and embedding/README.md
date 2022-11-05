@@ -1,9 +1,9 @@
 <span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Multimedia%20and%20embedding/README.en.md"> README</a></span>
 
-<h1> O objetivo deste teste de habilidade é avaliar se você entende como incorporar conteúdo de vídeo e áudio em HTML, também usando object, iframe e outras tecnologias de incorporação. </h1>
+<h1> O objetivo deste teste de habilidade é avaliar se você entende como incorporar conteúdo de vídeo e áudio em HTML, também usar object, iframe e outras tecnologias de incorporação. </h1>
 
 
-<strong>Habilidades aprendidas (ultilizadas):</strong>
+<strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  
 <li>Incorporar conteúdos de terceiros (vídeo, áudio, mapas)</li>
 <li>Adicionar legendas e subtítulos a vídeos </li>  

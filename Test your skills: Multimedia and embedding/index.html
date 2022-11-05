@@ -4,10 +4,11 @@
 
 <head>
   <meta charset="UTF-8">
-  <meta name="author" content="alexandre-j-dev" />
+  <meta name="author" content="alexandre-j-dev">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Multimedia and embedding</title>
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="https://developer.mozilla.org/favicon-48x48.cbbd161b.png" />
+  <link rel="icon" href="https://developer.mozilla.org/favicon-48x48.cbbd161b.png">
 </head>
 
 <body>
@@ -25,7 +26,7 @@ Add some appropriate fallback text for browsers that don't support <audio>. -->
 <span class="title"> Done </span><br>
 
 <audio controls>
-  <source src="media/audio.mp3" type="audio/mp3" />
+  <source src="media/audio.mp3" type="audio/mp3" >
   <p>
     Your browser doesn't support this audio file. Here is a
     <a href="media/audio.mp3">link to the audio</a> instead.
@@ -53,14 +54,14 @@ Make sure the readers can identify the subtitle language when they use the defau
 <!-- Answer 2 -->
 <span class="title"> Done </span><br>
 
-<video controls width="320px" height="240px" muted>
-    <source src="media/video.mp4" type="video/mp4" />
-    <source src="media/video.webm" type="video/webm" />
+<video controls width="320" height="240" muted>
+    <source src="media/video.mp4" type="video/mp4" >
+    <source src="media/video.webm" type="video/webm" >
 
     <track kind="subtitles"
            srclang="en"
            src="media/subtitles_en.vtt"
-           label="English" />
+           label="English" >
 
     <p>
         Your browser doesn't support this video. Here is a
@@ -84,8 +85,7 @@ Go to a sharing site like YouTube or Google Maps, and embed a video or other med
 <p> PDF embed here </p> 
 <p> <q>If you need to display PDFs, it's usually better to link to them, rather than embedding them in the
     page.</q> 
-  <a
-    target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#the_embed_and_object_elements">
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#the_embed_and_object_elements">
     <cite> MDN embedding tutorial </cite></a>
 </p>
 

@@ -3,7 +3,7 @@
 <h1> O objetivo deste teste de habilidade é avaliar se você entende os básicos de como marcar textos em HTML. </h1>
 
 
-<strong>Habilidades aprendidas (ultilizadas):</strong>
+<strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  
 <li>Títulos semânticos</li>
 <li>Parágrafos</li>

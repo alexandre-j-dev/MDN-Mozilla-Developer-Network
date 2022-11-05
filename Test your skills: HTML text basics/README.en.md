@@ -2,7 +2,7 @@
 
 <h1> The aim of this skill test is to assess whether you understand how to mark up text in HTML to give it structure and meaning. </h1>
 
-Skills learned:
+<strong>Skills learned (used):</strong>
 <ul>  
 <li>Semantic headings</li>
 <li>Paragraphs</li>

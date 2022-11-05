@@ -3,7 +3,7 @@
 <h1> O objetivo deste teste de habilidade é avaliar se você entende como implementar hiperlinks em HTML. </h1>
 
 
-<strong>Habilidades aprendidas (ultilizadas):</strong>
+<strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  
 <li>Criar hyperlinks</li>
 <li>Acessar caminhos de diretório</li>

@@ -2,7 +2,7 @@
 
 <h1> O objetivo deste teste de habilidade é avaliar se você entende sobre imagens, e como incorporá-las no HTML. </h1>
 
-<strong>Habilidades aprendidas (ultilizadas):</strong>
+<strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  
 <li>Inserir imagens</li>
 <li>URLs absolutas e relativas</li>

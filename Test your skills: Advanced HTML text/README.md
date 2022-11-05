@@ -2,7 +2,7 @@
 
 <h1> O objetivo deste teste de habilidade é avaliar se você entende como usar recursos semânticos mais avançados para marcar textos em HTML. </h1>
 
-<strong>Habilidades aprendidas (ultilizadas):</strong>
+<strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  
 <li>Listas de descrição</li>
 <li>Citações de bloco e em linha</li>
