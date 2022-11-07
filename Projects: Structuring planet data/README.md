@@ -49,7 +49,7 @@ Validador:
 <a href="https://validator.w3.org">https://validator.w3.org</a>  <br><hr>
   
 <strong>Veja abaixo</strong><br>
-<a href="https://htmlpreview.github.io/?"> Renderizar </a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Structuring%20planet%20data/index.html"> Renderizar </a><br>
 
 <strong>Projetos de conclusão MDN</strong><br>
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data"> Link para este projeto </a>
