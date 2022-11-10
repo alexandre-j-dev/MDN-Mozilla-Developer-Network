@@ -15,7 +15,7 @@
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20images/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images"> Link para este teste </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images"> HTML images </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-images-task/107035 ">Link para avaliação </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-images-task/107035 ">Ir para avaliação </a>

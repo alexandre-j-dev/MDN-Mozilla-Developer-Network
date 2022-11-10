@@ -2,7 +2,6 @@
 
 <h1> O objetivo deste teste de habilidade é avaliar se você entende como incorporar conteúdo de vídeo e áudio em HTML, também usar object, iframe e outras tecnologias de incorporação. </h1>
 
-
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  
 <li>Incorporar conteúdos de terceiros (vídeo, áudio, mapas)</li>
@@ -18,9 +17,9 @@
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Multimedia%20and%20embedding/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding"> Link para este teste </a><br>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding"> Multimedia and embedding </a><br>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a target="_blank" href="https://discourse.mozilla.org/t/assessment-wanted-for-html-multimedia-and-embedding-task/107048">Link para avaliação </a>
+<a target="_blank" href="https://discourse.mozilla.org/t/assessment-wanted-for-html-multimedia-and-embedding-task/107048">Ir para avaliação </a>
 
 

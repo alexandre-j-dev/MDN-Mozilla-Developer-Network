@@ -15,7 +15,7 @@
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20text%20basics/index.html"> Renderizar </a><br>
 
 <strong>Testes de habilidade MDN</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics"> Link para este teste </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics"> HTML text basics </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-text-basics-skill-test-1/106331">Link para avaliação </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-text-basics-skill-test-1/106331">Ir para avaliação </a>
