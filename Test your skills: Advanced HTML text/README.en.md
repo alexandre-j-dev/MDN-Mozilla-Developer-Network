@@ -2,7 +2,7 @@
 
 <h1>Test your skills: Advanced HTML text</h1>
 
-<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features. </p> 
+<p> The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features. </p> 
 
 <strong>Skills learned (used):</strong>
 <ul>  
@@ -21,4 +21,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Advanced_HTML_text"> Advanced HTML text </a>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-advanced-text-skill-test-1/106611">See assessment </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-advanced-text-skill-test-1/106611">Link to assessment </a>

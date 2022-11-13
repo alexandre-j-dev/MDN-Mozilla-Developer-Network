@@ -4,7 +4,7 @@
 
 <p>Para este projeto, sua tarefa é pegar o conteúdo de uma página inicial de um site de observação de pássaros, e adicionar elementos estruturais apropriados para que a página possa ter um layout e a semântica correta.</p>
 
-<strong>Habilidades aprendidas (ultilizadas):</strong>
+<strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>
   <li>Secionar conteúdos com tags semânticas</li>
   <li>Utilizar apropriadamente o elemento &lt;Header&gt; </li>
@@ -42,10 +42,11 @@
   <li>Aplicar o CSS para à página adicionando logo abaixo do existente fornecido no início do arquivo.</li>
 </ul>
 
-<h3>Dicas e sugestões</h3>
+
+<h2>Dicas e sugestões</h2>
 <ul>
-  <li>Ultilize o <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para detectar erros em seu HTML, CSS e SVG que podem ter passados despercebidos.</li>
-  <li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido dentro do HTML.</li>
+  <li>Utilize o W3C HTML Checker para validar seu HTML e detectar erros que possam ter passados despercebidos.</li>
+  <li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido ao documento HTML.</li>
   <li>O CSS fornecido vai alterar as cores e o posicionamento dos elementos na página, apôs estruturados corretamente.</li>
   <li>Desenhar o layout da página e escrever quais elementos que você acha que devem ir em cada bloco é extremamente útil.</li>
 </ul>
@@ -54,13 +55,13 @@ Exemplo:
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content/example-page.png"> Structuring a page of content (feito) </a>
 
 Validador:
-https://validator.w3.org/  <br><hr>
+<a href="https://validator.w3.org">W3C HTML Checker</a>  <br><hr>
   
 <strong>Veja abaixo</strong><br>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Structuring%20a%20page%20of%20content/index.html"> Renderizar </a><br>
 
-<strong>Testes de habilidade MDN</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link para este projeto </a>
+<strong>Projetos de conclusão MDN</strong><br>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Structuring a page of content </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-structuring-a-page-of-content-exercise/106853">Link para avaliação </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-structuring-a-page-of-content-exercise/106853">Ir para avaliação </a>

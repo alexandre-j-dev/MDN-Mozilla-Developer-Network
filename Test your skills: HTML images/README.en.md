@@ -2,7 +2,7 @@
 
 <h1>Test your skills: HTML images</h1>
 
-<p style="font-size:28px"> The aim of this skill test is to assess whether you understand images and how to embed them in HTML. </p>
+<p> The aim of this skill test is to assess whether you understand images and how to embed them in HTML. </p>
 
 <strong>Skills learned (used):</strong>
 <ul>  
@@ -20,4 +20,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images"> HTML images </a>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-images-task/107035">See assessment </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-images-task/107035">Link to assessment </a>

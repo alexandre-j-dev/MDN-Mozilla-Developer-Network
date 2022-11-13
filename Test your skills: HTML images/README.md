@@ -2,7 +2,7 @@
 
 <h1>Teste de habilidades: Imagens HTML</h1>
 
-<p style="font-size:28px"> O objetivo deste teste de habilidade é avaliar se você entende sobre imagens, e como incorporá-las no HTML. </p>
+<p> O objetivo deste teste de habilidade é avaliar se você entende sobre imagens, e como incorporá-las no HTML. </p>
 
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  

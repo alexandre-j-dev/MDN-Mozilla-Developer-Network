@@ -31,13 +31,13 @@
 </ol>
 
 
-<h3>Hints and tips</h3>
+<h2>Hints and tips</h2>
 <ul>
+<li>Use the W3C HTML Checker to validate your HTML and to catch unintended mistakes.</li>
+<li>You don't need to know any CSS to do this assignment. You just need to put the provided CSS inside the HTML document.</li>
 <li>The first cell of the header row needs to be blank, and span two columns.</li>
 <li>The group row headings (e.g. Jovian planets) that sit to the left of the planet name row headings (e.g. Saturn) are a little tricky to sort out — you need to make sure each one spans the correct number of rows and columns.</li>
 <li>One way of associating headers with their rows/columns is a lot easier than the other way.</li>
-<li>Use the W3C HTML validator to validate your HTML. Award yourself bonus points if it validates.</li>
-<li>You don't need to know any CSS to do this assignment. You just need to put the provided CSS inside an HTML element.</li>
 </ul>
 
 Example:
@@ -46,13 +46,13 @@ Structuring planet data (done) </a>
 
 
 Validator:
-<a href="https://validator.w3.org">https://validator.w3.org</a>  <br><hr>
+<a href="https://validator.w3.org">W3C HTML Checker</a>  <br><hr>
   
 <strong>See it below</strong><br>
 <a href="https://htmlpreview.github.io/?"> Render </a><br>
 
 <strong>MDN conclusion projects</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data"> Link to this project </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data"> Structuring planet data </a>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
 <a href="">Link to assessment </a>

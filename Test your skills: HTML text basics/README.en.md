@@ -2,7 +2,7 @@
 
 <h1>Test your skills: HTML text basics </h1>
 
-<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to mark up text in HTML to give it structure and meaning. </p>
+<p> The aim of this skill test is to assess whether you understand how to mark up text in HTML to give it structure and meaning. </p>
 
 <strong>Skills learned (used):</strong>
 <ul>  
@@ -19,4 +19,4 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_HTML_text_basics"> HTML text basics </a>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-text-basics-skill-test-1/106331">See assessment </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-text-basics-skill-test-1/106331">Link to assessment </a>

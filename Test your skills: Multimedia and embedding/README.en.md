@@ -2,7 +2,7 @@
 
 <h1>Test your skills: Multimedia and embedding</h1>
 
-<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to embed video and audio content in HTML, also using object, iframe and other embedding technologies. </p>
+<p> The aim of this skill test is to assess whether you understand how to embed video and audio content in HTML, also using object, iframe and other embedding technologies. </p>
 
 <strong>Skills learned (used):</strong>
 <ul>  
@@ -22,6 +22,6 @@
  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding">  Multimedia and embedding </a><br>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-multimedia-and-embedding-task/107048">See assessment </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-multimedia-and-embedding-task/107048">Link to assessment </a>
 
 

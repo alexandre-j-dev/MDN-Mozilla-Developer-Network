@@ -2,7 +2,7 @@
 
 <h1>Teste de habilidades: Textos simples HTML</h1>
 
-<p style="font-size:28px"> O objetivo deste teste de habilidade é avaliar se você entende os básicos de como marcar textos em HTML. </p>
+<p> O objetivo deste teste de habilidade é avaliar se você entende os básicos de como marcar textos em HTML. </p>
 
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  

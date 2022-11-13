@@ -2,7 +2,7 @@
 
 <h1>Teste de habilidades: Multimídia e incorporação</h1>
 
-<p style="font-size:28px"> O objetivo deste teste de habilidade é avaliar se você entende como incorporar conteúdo de vídeo e áudio em HTML, também usar object, iframe e outras tecnologias de incorporação. </p>
+<p> O objetivo deste teste de habilidade é avaliar se você entende como incorporar conteúdo de vídeo e áudio em HTML, também usar object, iframe e outras tecnologias de incorporação. </p>
 
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  

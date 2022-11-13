@@ -39,13 +39,14 @@
 
 <h3>You should also:</h3>
 <ul>
-  <li>Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.</li>
+  <li>Apply the provided CSS to the page by adding another &lt;link&gt; element just below the existing one provided at the start.</li>
 </ul>
 
-<h3>Hints and tips</h3>
+
+<h2>Hints and tips</h2>
 <ul>
-  <li>Use the <a href="https://validator.w3.org/nu/">W3C Nu HTML Checker</a> to catch unintended mistakes in your HTML, CSS, and SVG — mistakes you might have otherwise missed — so that you can fix them.</li>
-  <li>You don't need to know any CSS to do this assessment; you just need to put the provided CSS inside an HTML element.</li>
+  <li>Use the W3C HTML Checker to validate your HTML and to catch unintended mistakes.</li>
+  <li>You don't need to know any CSS to do this assignment. You just need to put the provided CSS inside the HTML document.</li>
   <li>The provided CSS is designed so that when the correct structural elements are added to the markup, they will appear green in the rendered page.</li>
   <li>If you are getting stuck and can't envisage what elements to put where, draw out a simple block diagram of the page layout, and write on the elements you think should wrap each block. This is extremely helpful.</li>
 </ul>
@@ -54,13 +55,13 @@ Example:
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content/example-page.png"> Structuring a page of content (done) </a>
 
 Validator:
-https://validator.w3.org/  <br><hr>
+<a href="https://validator.w3.org">W3C HTML Checker</a>  <br><hr>
   
 <strong>See it below</strong><br>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Structuring%20a%20page%20of%20content/index.html"> Render </a><br>
 
-<strong>MDN skill tests</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Link to this project </a>
+<strong>MDN conclusion projects</strong><br>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content"> Structuring a page of content </a>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
 <a href="https://discourse.mozilla.org/t/assessment-wanted-for-html-structuring-a-page-of-content-exercise/106853">Link to assessment </a>

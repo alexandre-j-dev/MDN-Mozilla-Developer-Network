@@ -2,7 +2,7 @@
 
 <h1>Test your skills: Links</h1>
 
-<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML. </p>
+<p> The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML. </p>
 
 <strong>Skills learned (used):</strong>
 <ul>  
@@ -23,6 +23,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Test_your_skills:_Links"> Links </a><br>
 
 <strong>Assessment on Mozilla Discourse</strong><br>
-<a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">See assessment </a>
+<a href="https://discourse.mozilla.org/t/assessment-wanted-for-links-skill-tests/106520">Link to assessment </a>
 
 

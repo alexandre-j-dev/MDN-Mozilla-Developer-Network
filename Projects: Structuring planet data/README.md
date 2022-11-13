@@ -31,13 +31,13 @@
 </ol>
 
 
-<h3>Dicas e sugestões</h3>
+<h2>Dicas e sugestões</h2>
 <ul>
+<li>Utilize o W3C HTML Checker para validar seu HTML e detectar erros que possam ter passados despercebidos.</li>
+<li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido ao documento HTML.</li>
 <li>A primeira célula da linha de cabeçalho precisa estar em branco e abranger duas colunas.</li>
 <li>Os títulos de linha de grupo (por exemplo, planetas jovianos) que ficam à esquerda dos títulos de linha de nome de planeta (por exemplo, Saturno) são um pouco complicados de classificar - você precisa ter certeza de que cada um abrange o número correto de linhas e colunas.</li>
 <li>Uma maneira de associar cabeçalhos com suas linhas/colunas é muito mais fácil do que a outra.</li>
-<li>Utilize o <a href="https://validator.w3.org/nu/">W3C HTML Checker</a> para validar seu HTML e detectar erros que possam ter passados despercebidos.</li>
-<li>Você não precisa conhecer nenhum CSS para fazer esse projeto; você só precisa linkar o CSS fornecido ao documento HTML.</li>
 </ul>
 
 Exemplo:
@@ -46,13 +46,13 @@ Structuring planet data (feito) </a>
 
 
 Validador:
-<a href="https://validator.w3.org">https://validator.w3.org</a>  <br><hr>
+<a href="https://validator.w3.org">W3C HTML Checker</a>  <br><hr>
   
 <strong>Veja abaixo</strong><br>
 <a href="https://htmlpreview.github.io/?https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Projects:%20Structuring%20planet%20data/index.html"> Renderizar </a><br>
 
 <strong>Projetos de conclusão MDN</strong><br>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data"> Link para este projeto </a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data"> Structuring planet data </a>
 
 <strong>Avaliação no Mozilla Discourse</strong><br>
-<a href=""> Link para avaliação </a>
+<a href=""> Ir para avaliação </a>
