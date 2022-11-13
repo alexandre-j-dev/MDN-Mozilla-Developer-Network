@@ -2,7 +2,7 @@
 
 <h1>Teste de habilidades: Links</h1>
 
-<p style="font-size:xx-large"> O objetivo deste teste de habilidade é avaliar se você entende como implementar hiperlinks em HTML. </p>
+<span style="font-size: xx-large;"> O objetivo deste teste de habilidade é avaliar se você entende como implementar hiperlinks em HTML. </span>
 
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  
