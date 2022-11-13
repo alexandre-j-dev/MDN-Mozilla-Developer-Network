@@ -1,6 +1,8 @@
 <span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Test%20your%20skills:%20Advanced%20HTML%20text"> README</a></span>
 
-<h1> The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features. </h1> 
+<h1>Test your skills: Advanced HTML text</h1>
+
+<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to use lesser-known HTML elements to mark up advanced semantic features. </p> 
 
 <strong>Skills learned (used):</strong>
 <ul>  

@@ -1,8 +1,8 @@
 <span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20HTML%20images/README.en.md"> README</a></span>
 
-<h1>Test your skills: HTML images</h1>
+<h1>Teste de habilidades: Imagens HTML</h1>
 
-<p> O objetivo deste teste de habilidade é avaliar se você entende sobre imagens, e como incorporá-las no HTML. </p>
+<p style="font-size:28px"> O objetivo deste teste de habilidade é avaliar se você entende sobre imagens, e como incorporá-las no HTML. </p>
 
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  

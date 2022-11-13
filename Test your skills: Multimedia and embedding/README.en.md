@@ -1,6 +1,8 @@
 <span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Test%20your%20skills:%20Multimedia%20and%20embedding"> README</a></span>
 
-<h1> The aim of this skill test is to assess whether you understand how to embed video and audio content in HTML, also using object, iframe and other embedding technologies. </h1>
+<h1>Test your skills: Multimedia and embedding</h1>
+
+<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to embed video and audio content in HTML, also using object, iframe and other embedding technologies. </p>
 
 <strong>Skills learned (used):</strong>
 <ul>  

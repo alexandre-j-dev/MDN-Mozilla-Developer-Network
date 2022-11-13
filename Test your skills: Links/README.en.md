@@ -1,6 +1,8 @@
 <span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Test%20your%20skills:%20Links"> README</a></span>
 
-<h1> The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML. </h1>
+<h1>Test your skills: Links</h1>
+
+<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to implement hyperlinks in HTML. </p>
 
 <strong>Skills learned (used):</strong>
 <ul>  

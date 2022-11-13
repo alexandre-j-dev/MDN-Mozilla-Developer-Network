@@ -1,6 +1,8 @@
 <span><i>English ver.</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/blob/HTML/Test%20your%20skills:%20Links/README.en.md"> README</a></span>
 
-<h1> O objetivo deste teste de habilidade é avaliar se você entende como implementar hiperlinks em HTML. </h1>
+<h1>Teste de habilidades: Links</h1>
+
+<p style="font-size:28px"> O objetivo deste teste de habilidade é avaliar se você entende como implementar hiperlinks em HTML. </p>
 
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>  

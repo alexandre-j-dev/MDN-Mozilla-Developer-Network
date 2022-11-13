@@ -1,6 +1,8 @@
 <span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Test%20your%20skills:%20HTML%20text%20basics"> README</a></span>
 
-<h1> The aim of this skill test is to assess whether you understand how to mark up text in HTML to give it structure and meaning. </h1>
+<h1>Test your skills: HTML text basics </h1>
+
+<p style="font-size:28px"> The aim of this skill test is to assess whether you understand how to mark up text in HTML to give it structure and meaning. </p>
 
 <strong>Skills learned (used):</strong>
 <ul>  
