@@ -1,4 +1,4 @@
-<span><i>Return to the previous</i> <a href=""> README</a></span>
+<span><i>Return to the previous</i> <a href="https://github.com/alexandre-j-dev/MDN-Mozilla-Developer-Network/tree/HTML/Projects:%20Structuring%20planet%20data"> README</a></span>
 
 <h1> Project brief </h1>
 
