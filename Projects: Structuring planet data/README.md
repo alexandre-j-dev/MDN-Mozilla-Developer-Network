@@ -2,7 +2,7 @@
 
 <h1> Resumo do projeto </h1>
 
-<p>Você está trabalhando em uma escola; atualmente, seus alunos estão estudando os planetas do nosso sistema solar e você deseja fornecer a eles um conjunto de dados fácil de seguir para pesquisar fatos e números sobre os planetas. Uma tabela de dados HTML seria o ideal — você precisa pegar os dados brutos disponíveis e transformá-los em uma tabela, seguindo os passos abaixo.</p>
+<p>Você está trabalhando em uma escola, seus alunos estão estudando sobre os planetas do nosso sistema solar e você deseja fornecer a eles um conjunto de dados fácil de seguir para pesquisar fatos e números sobre os planetas. Uma tabela de dados HTML seria o ideal — você precisa pegar os dados brutos disponíveis e transformá-los em uma tabela, seguindo os passos abaixo.</p>
 
 <strong>Habilidades aprendidas (utilizadas):</strong>
 <ul>
